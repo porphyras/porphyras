@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm a bachelor's student at **Novosibirsk State University**, specializing in machine learning and neural networks.
 I like building things end to end: from models and data pipelines to the backend and bots that put them in front of users.
 
