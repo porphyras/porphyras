@@ -7,10 +7,10 @@ I like building things end to end: from models and data pipelines to the backend
 
 | Project | What it is |
 |---|---|
-| [intent-router-bot](https://github.com/puoku/intent-router-bot) | Telegram shop assistant: an LLM intent classifier with timeout, circuit breaker and rule-based fallback, fuzzy catalog search, FastAPI admin panel, tests + CI + Docker |
-| [roomsplit](https://github.com/puoku/roomsplit) | Web app for flatmates: chores, shared expenses and automatic debt settlement. Tested and deployed |
-| [Parallelism-theory](https://github.com/puoku/Parallelism-theory) | OpenMP and `std::thread` labs with speedup / efficiency benchmarks; multithreaded YOLO video pipeline |
-| [nsu-os-labs](https://github.com/puoku/nsu-os-labs) | UNIX system programming in C: processes, signals, pipes, sockets, `poll` |
+| [intent-router-bot](https://github.com/porphyras/intent-router-bot) | Telegram shop assistant: an LLM intent classifier with timeout, circuit breaker and rule-based fallback, fuzzy catalog search, FastAPI admin panel, tests + CI + Docker |
+| [roomsplit](https://github.com/porphyras/roomsplit) | Web app for flatmates: chores, shared expenses and automatic debt settlement. Tested and deployed |
+| [Parallelism-theory](https://github.com/porphyras/Parallelism-theory) | OpenMP and `std::thread` labs with speedup / efficiency benchmarks; multithreaded YOLO video pipeline |
+| [nsu-os-labs](https://github.com/porphyras/nsu-os-labs) | UNIX system programming in C: processes, signals, pipes, sockets, `poll` |
 
 #### Tech
 
