@@ -7,6 +7,7 @@ I like building things end to end: from models and data pipelines to the backend
 
 | Project | What it is |
 |---|---|
+| [rk3588-yolo-tracking](https://github.com/porphyras/rk3588-yolo-tracking) | YOLOv5n / v8n / 11n on the Rockchip RK3588 NPU: int8 RKNN conversion with a COCO mAP check, pipeline sped up from 17 to 141 FPS, detect-once + NanoTrack tracking |
 | [intent-router-bot](https://github.com/porphyras/intent-router-bot) | Telegram shop assistant: an LLM intent classifier with timeout, circuit breaker and rule-based fallback, fuzzy catalog search, FastAPI admin panel, tests + CI + Docker |
 | [roomsplit](https://github.com/porphyras/roomsplit) | Web app for flatmates: chores, shared expenses and automatic debt settlement. Tested and deployed |
 | [Parallelism-theory](https://github.com/porphyras/Parallelism-theory) | OpenMP and `std::thread` labs with speedup / efficiency benchmarks; multithreaded YOLO video pipeline |
